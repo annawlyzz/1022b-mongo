@@ -1,5 +1,3 @@
-
-
 //Como criar um banco de dados no mongodb?
 use('dbtigrinho')
 

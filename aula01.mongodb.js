@@ -1,4 +1,4 @@
-// Cria um banco de dados se não existir
+/* Cria um banco de dados se não existir
 // ou usa um banco criado anteriormente se já existir.
 use('ifms');
 
@@ -18,4 +18,4 @@ idade
 email
 endereco
 
--> Insira pelo menos 1 professor no banco
+-> Insira pelo menos 1 professor no banco*/
